@@ -33,6 +33,4 @@ provider "scaleway" {
   zone = "fr-par-1"
   // Region we want to use
   region = "fr-par"
-  // Replace with customer organization id
-  organization_id = "71cf4c5b-2be9-435d-a2a1-9b912ef41e73" //"71cf4c5b-2be9-435d-a2a1-9b912ef41e73"
 }
