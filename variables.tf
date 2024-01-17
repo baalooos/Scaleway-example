@@ -22,7 +22,7 @@ variable "db_node_type" {
 }
 // Username for db, Password is auto generated
 variable "db_admin_name" {
-  default = "onisep_admin"
+  default = "admin"
 }
 // Do we need HA or not
 variable "db_is_ha" {

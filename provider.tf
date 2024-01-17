@@ -11,7 +11,7 @@ terraform {
     // Change this.
     bucket = "ceg-test-env"
     // Path in the S3 bucket
-    key = "onisep/dev/terraform.tfstate"
+    key = "test/dev/terraform.tfstate"
     // Region of the bucket
     region = "fr-par"
     // Change the endpoint if we change the region
